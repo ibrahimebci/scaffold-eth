@@ -1,5 +1,4 @@
 # 🏗 Scaffold-ETH
-
 # 🚨🚨 This repository has been archived and is now read-only 🚨🚨
 
 You are still welcome to fork and use as a template but no more changes will be made to this repository.
